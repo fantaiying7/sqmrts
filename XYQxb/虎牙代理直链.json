@@ -5,7 +5,7 @@
     "firstpage": "1",
     "class_url": "https://live.cdn.huya.com/liveHttpUI/getLiveList?iGid={cateId}&iPageNo={catePg}&iPageSize=120",
     "class_name": "王者荣耀&英雄联盟&星秀&天天吃鸡&主机游戏&二次元&一起看",
-    "class_value": "2336/1/1663/2793/1964/2633/2135",
+    "class_value": "2336&1&1663&2793&1964&2633&2135",
     "filterdata":{},
     "cat_YN_twice": "1",
     "cat_twice_pre": "vList\": \\[",
