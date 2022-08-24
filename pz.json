@@ -23,7 +23,6 @@
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Wmkk","name":"💯‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_EEEDY","name":"👁‍E看(SP)","api":"csp_EEEDY","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lib","name": "🎉Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
