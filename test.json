@@ -43,8 +43,9 @@
 {"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-{"key":"csp_Alist2","name":"🐞Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.142856.xyz/OneDrive","jar":"https://api.wangmeipo.cn/tv/tvjs/293.jar"},
-	
+{"key":"csp_Alist1","name":"🐞Alist1(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.142856.xyz/OneDrive","jar":"https://api.wangmeipo.cn/tv/tvjs/293.jar"},
+{"key":"csp_Alist2","name":"🐞Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml","jar":"https://api.wangmeipo.cn/tv/tvjs/293.jar"},
+","jar":"https://api.wangmeipo.cn/tv/tvjs/293.jar"},
 {"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ], 
