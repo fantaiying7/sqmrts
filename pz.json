@@ -18,10 +18,10 @@
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"push_agent","name":"🐱推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+
 {"key":"csp_Alist1","name":"🅿Alist1(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.142856.xyz","jar":"https://神器每日推送.tk/jar/alist.jar"},
 {"key":"csp_Alist2","name":"🅿Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml","jar":"https://神器每日推送.tk/jar/alist.jar"},
 
-	
 {"key":"csp_77","name":"🎬77(SP)稳定-神器每日推送推介","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
@@ -59,9 +59,6 @@
 {"key": "csp_XYQBiu_凌云视频国内","name": "🍀凌云国内(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云视频国内.json"},
 {"key": "csp_XYQBiu_凌云视频韩国","name": "🍀凌云韩国(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云视频韩国.json"},
 
-
-
-	
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/斗鱼.json"},
 {"key": "csp_xpath_88kanqiu","name": "⚽88看球(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
 {"key": "csp_xpath_qiumi","name": "🏀球迷(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/qiumi.json"},
@@ -89,7 +86,6 @@
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/voflix.json"},
 {"key":"csp_xbb_黑狐影视ns","name":"🍀黑狐影视(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/黑狐影视ns.json"},
 {"key":"csp_xbb_Nike影视","name":"🍀Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/Nike影视网.json"},
-
 
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dm84.json"},
