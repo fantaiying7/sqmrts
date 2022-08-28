@@ -19,10 +19,10 @@
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"push_agent","name":"🐱推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 
-{"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"讯维云盘$https://pan.xwbeta.com#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#菊花盘$https://pan.142856.xyz#Adult$https://drive.9t.ee#轻弹浅唱$https://alist.youte.ml"},
+//{"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"讯维云盘$https://pan.xwbeta.com#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#菊花盘$https://pan.142856.xyz#Adult$https://drive.9t.ee#轻弹浅唱$https://alist.youte.ml"},
 
 
-{"key":"csp_77","name":"🎬77(SP)(稳定快-神器妹推介)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🎬77(SP)(稳快-神器妹推介)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
