@@ -71,10 +71,6 @@
 {"key":"初中课堂","name":"📚初中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/高中课堂.json"},
 
-{"key":"csp_xpath_nbys","name":"🏝泥巴(搭飞机)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小宝影院","name":"👶小宝影院(搭飞机)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"If101","name":"1️⃣If101(搭飞机)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_xbb_影视之光","name":"🍀影视之光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/影视之光.json"},
 {"key":"csp_xbb_酷云影院","name":"🍀酷云影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/酷云影院.json"},
 //{"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/茶杯狐.json"},
