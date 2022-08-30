@@ -70,11 +70,8 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "https://gitea.com/afx163/TVBox/raw/branch/main/bc.txt",
-//"dianshizhibo": "http://www.m9527.top/blive.txt",
- 
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
- 
+"dianshizhibo": "http://www.m9527.top/blive.txt",
+ "guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 "zidingyi": [
 {"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
