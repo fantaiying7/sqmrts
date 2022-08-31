@@ -8,8 +8,6 @@
 "spider":"https://神器每日推送.tk/jar;md5;8c74980779810db0309ed15cdf2ba073",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-
-//"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWZ4MTYzL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9iYy50eHQ="]}]}],
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly/J8cb3w7/I1c3Gy80udGsvdHYudHh0"]}]}],
 
 "sites":[
