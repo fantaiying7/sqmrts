@@ -20,7 +20,7 @@
 
 {"key":"KanSJ_spider","name":"🗽看视界(SP)(神器妹推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/jar/ts.zip;md5;2F19C527B9A335FB1415C5F9686515C8"},
-{"key":"csp_77","name":"新77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/jar/77.zip;md5;3FF273ADC74924748C820B8F15FB8C49"},
+{"key":"csp_77","name":"新77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/jar/77.zip;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
