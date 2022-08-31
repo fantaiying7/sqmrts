@@ -91,7 +91,7 @@
 		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_pansou.py"
 	}, {
 		"key": "push_agent",
-		"name": "阿里",
+		"name": "阿里推送",
 		"type": 3,
 		"api": "py_ali",
 		"searchable": 0,
