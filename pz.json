@@ -47,7 +47,7 @@
 {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-{"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://t4.secan.icu/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "csp_XYQBiu_聚合短视频","name":"🍀聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
 {"key": "csp_XYQBiu_虎牙代理直链","name":"🍀虎牙代理直链(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙代理直链.json"},
