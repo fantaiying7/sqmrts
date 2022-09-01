@@ -19,6 +19,7 @@
 {"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 
 {"key":"KanSJ_spider","name":"🗽看视界(SP)(神器妹推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
