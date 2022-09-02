@@ -50,7 +50,7 @@
 ],
 
 "caijizhan": [
-{"name":"七七","url":"http://api.kunyu77.com/api.php"}
+{"name":"江湖官采(官)","url":"http://119.29.1.173/api.php"}
 ],
 
 "zhujiexi": [
@@ -71,7 +71,9 @@
 ],
 
 "dianshizhibo": "http://www.m9527.top/blive.txt",
- "guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+"guolvdizhi": "player.css#?url=#51.la#poster#.html#file=#cnzz.com#baidu.com#.gif",
+
 "zidingyi": [
 {"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
@@ -131,6 +133,201 @@
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
+
+
+{
+"author": "20220731",
+"name": "直播8",
+"url": "https://www.zhibo8.net",
+"User": "空",
+"直接播放": "1",
+"列表显示": "1",
+"fenlei": "体育$空",
+"houzhui": "",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"match-item\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
+"tupianhou": "\"",
+"biaotiqian": "class=\"col-home flex\">",
+"biaotihou": "</div>",
+"tupianqianzhui": "空",  
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空", 
+"fubiaotiqian": "class=\"col-time\">",
+"fubiaotihou": "                            </div>"},
+
+
+{
+"author": "20220902",
+"name": "体育-jrs",
+
+"url": "http://www.jrskan.com",
+
+"User": "空",
+
+"是否记录历史": "1",
+
+"横图显示": "1",
+
+"列表显示": "0",
+
+"fenlei": "体育$空",
+
+"houzhui": "",
+
+"qishiye": "空",
+
+"shifouercijiequ": "0",
+
+"jiequqian": "空",
+
+"jiequhou": "空",
+
+"jiequshuzuqian": "<ul class=\"item play",
+
+"jiequshuzuhou": "</ul>",
+
+"tupianqian": "src=\"",
+
+"tupianhou": "\"",
+
+"biaotiqian": "class=\"lab_team_home\">",
+
+"biaotihou": "<li class=\"lab_bc\"",
+
+"lianjieqian": "href=\"http://play.sportsteam333.com",
+
+"lianjiehou": "\"",
+
+"ljqianzhui": "http://play.sportsteam333.com",
+
+"fubiaotiqian": "class=\"lab_time\">",
+
+"fubiaotihou": "</li>",
+
+"bfshifouercijiequ": "0",
+
+"bfjiequqian": "空",
+
+"bfjiequhou": "空",
+
+"bfjiequshuzuqian": "class=\"sub_playlist\"",
+
+"bfjiequshuzuhou": "|",
+
+"zhuangtaiqian": "class=\"otherbox\">",
+
+"zhuangtaihou": "</p>",
+
+"daoyanqian": "导演：</span>",
+
+"daoyanhou": "</p>",
+
+"zhuyanqian": "主演：</span>",
+
+"zhuyanhou": "</p>",
+
+"juqingqian": "<span class=\"data\"",
+
+"juqinghou": "</span>",
+
+"bfyshifouercijiequ": "0",
+
+"bfyjiequqian": "空",
+
+"bfyjiequhou": "空",
+
+"bfyjiequshuzuqian": "<a",
+
+"bfyjiequshuzuhou": "/a>",
+
+"bfbiaotiqian": "<strong>",
+
+"bfbiaotihou": "</strong>",
+
+"bflianjieqian": "data-play=\"",
+
+"bflianjiehou": "\"",
+
+"bfqianzhui": "http://play.sportsteam333.com"},
+
+{
+"author": "20220902",
+"name": "体育-88看球",
+"url": "http://www.88kanqiu.com",
+"User": "空",
+"是否记录历史": "1",
+
+"横图显示": "1",
+
+"列表显示": "0",
+
+"fenlei": "体育$空",
+
+"houzhui": "",
+
+"shifouercijiequ": "0",
+
+"jiequqian": "空",
+
+"jiequhou": "空",
+
+"jiequshuzuqian": "group-game-item",
+
+"jiequshuzuhou": "</li>",
+
+"tupianqian": "https://img0.baidu.com/it/u=18459781,726289362&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500",
+
+"tupianhou": "\"",
+
+"biaotiqian": "text-right\">",
+
+"biaotihou": "<div data-id",
+
+"tupianqianzhui": "空",
+
+"lianjieqian": "href='",
+
+"lianjiehou": "'",
+
+"ljqianzhui": "空",
+
+"fubiaotiqian": "role=\"button\">",
+
+"fubiaotihou": "<",
+
+"bfshifouercijiequ": "0",
+
+"bfjiequqian": "空",
+
+"bfjiequhou": "空",
+
+"bfjiequshuzuqian": "\"game-videos-btn-container\"",
+
+"bfjiequshuzuhou": "</div>",
+
+"bfyshifouercijiequ": "0",
+
+"bfyjiequqian": "空",
+
+"bfyjiequhou": "空",
+
+"bfyjiequshuzuqian": "<a",
+
+"bfyjiequshuzuhou": "/a>",
+
+"bfbiaotiqian": ">",
+
+"bfbiaotihou": "<",
+
+"bflianjieqian": "href='",
+
+"bflianjiehou": "'"},
+
 {"name": "完美看看", 
 "url": "https://www.wanmeikk.me", 
 "tihuan": "cnzz.com", 
