@@ -6,8 +6,9 @@
  
  {
 "Home": [
-{"key":"采集","title":"七七资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
+{"key":"采集","title":"江湖采集","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
 {"key":"网页","title":"网页资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
+{"key":"网页","title":"体育直播","pic":"https://img1.baidu.com/it/u=2281814604,2588211077&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
 {"key":"APP","title":"APP资源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
 {"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
 {"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
