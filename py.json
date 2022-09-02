@@ -46,7 +46,7 @@
 		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_voflix.py"
 	},{
 		"key": "py_bilimd",
-		"name": "🔥B站影视",
+		"name": "B站影视",
 		"type": 3,
 		"api": "py_bilimd",
 		"searchable": 1,
@@ -73,7 +73,7 @@
 		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_genmov.py"
 	},{
 		"key": "py_huya",
-		"name": "🔥虎牙",
+		"name": "虎牙",
 		"type": 3,
 		"api": "py_huya",
 		"searchable": 0,
@@ -82,7 +82,7 @@
 		"ext": "https://cdn.jsdelivr.net/gh/UndCover/PyramidStore@main/plugin/py_huya.py"
 	}, {
 		"key": "py_douyu",
-		"name": "🔥斗鱼",
+		"name": "斗鱼",
 		"type": 3,
 		"api": "py_douyu",
 		"searchable": 0,
