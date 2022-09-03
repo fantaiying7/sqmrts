@@ -60,6 +60,11 @@
     "epi_title": "",
     "epi_url": "",
     "epiurl_prefix": "",
-    "epiurl_suffix": ""
+    "epiurl_suffix": "",
+    //是否开启手动嗅探
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#is_play_url=1#item/video#kaiyanapp#qianpailive"
+
     
 }
