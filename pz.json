@@ -49,7 +49,7 @@
 	
 {"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"VIP2","name":"🐞VIP2","type":4,"api":"https://vod.kooo.eu.org/t4/vip100002","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"VIP4","name":🐞"VIP4","type":4,"api":"https://vod.kooo.eu.org/t4/vip100004","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP4","name":"🐞VIP4","type":4,"api":"https://vod.kooo.eu.org/t4/vip100004","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP8","name":"🐞VIP8","type":4,"api":"https://vod.kooo.eu.org/t4/vip100008","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP16","name":"🐞VIP16","type":4,"api":"https://vod.kooo.eu.org/t4/vip100016","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP32","name":"🐞VIP32","type":4,"api":"https://vod.kooo.eu.org/t4/vip100032","searchable":1,"quickSearch":1,"filterable":1},
