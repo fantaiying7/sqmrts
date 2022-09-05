@@ -78,6 +78,7 @@ CGTN-英语,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
 CGTN-法语,http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8
 CGTN-纪录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
 CGTN-纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
+
 央视蓝光,#genre#
 CCTV1[1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
@@ -247,8 +248,9 @@ CCTV8K[1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
 兵团卫视,http://111.59.189.40:8445/tsfile/live/0115_1.m3u8
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/index.m3u8,
-地方蓝光,#genre#
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/index.m3u8
+
+卫视蓝光,#genre#
 江西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
 湖南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 江苏卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
