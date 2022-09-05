@@ -5,7 +5,7 @@
 
 {
 
-"spider":"https://神器每日推送.tk/jar;md5;7b0b709b8fceda4c68a93f79271abb9c",
+"spider":"https://神器每日推送.tk/jar;md5;cba25e36a2499531e4bba394e22faa82",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 
@@ -46,34 +46,34 @@
 {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"dr_万能影视","name":"🔃万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_喵喵","name":"🔃喵喵(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_夜空","name":"🔃夜空(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=夜空","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_干饭影视","name":"🔃干饭(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_蓝光影院","name":"🔃蓝光(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_蓝莓影视","name":"🔃蓝莓(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_瓜皮TV","name":"🔃瓜皮TV(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_莫扎兔","name":"🔃莫扎兔(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_鸭奈飞","name":"🔃鸭奈飞(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_看视界","name":"🔃看视界(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_影视工厂","name":"🔃影视工厂(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_玩偶姐姐","name":"🔃玩偶姐姐(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=玩偶姐姐","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_555影视","name":"🔃555影视(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_cokemv","name":"🔃cokemv(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key":"低端","name":"🐞低端(长老)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"柠檬","name":"🐞柠檬(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11a0c4","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"80S","name":"🐞80S(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"简影","name":"🐞简影(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"libvo","name":"🐞libvo(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11a032","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"🐞农民(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11fx64","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"泥巴","name":"🐞泥巴(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11o128","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"注视","name":"🐞注视(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11p256","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"泥巴","name":"🐞泥巴(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11o128","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"dr_555影视","name":"🔃555影视(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_cokemv","name":"🔃cokemv(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_万能影视","name":"🔃万能(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_喵喵","name":"🔃喵喵(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_夜空","name":"🔃夜空(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=夜空","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_干饭影视","name":"🔃干饭(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_影视工厂","name":"🔃影视工厂(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_玩偶姐姐","name":"🔃玩偶姐姐(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=玩偶姐姐","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_瓜皮TV","name":"🔃瓜皮TV(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_看视界","name":"🔃看视界(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_莫扎兔","name":"🔃莫扎兔(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝光影院","name":"🔃蓝光(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝莓影视","name":"🔃蓝莓(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_鸭奈飞","name":"🔃鸭奈飞(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable":1,"quickSearch":1,"filterable":0}
-	
 {"key": "csp_XYQBiu_聚合短视频","name":"🍀聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
 {"key": "csp_XYQBiu_虎牙代理直链","name":"🍀虎牙代理直链(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙代理直链.json"},
 {"key": "csp_XYQBiu_凌云影视","name": "🍀凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
