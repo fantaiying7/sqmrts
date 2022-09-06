@@ -56,6 +56,7 @@
 {"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "csp_XYQBiu_聚合短视频","name":"🍀聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
+{"key": "csp_XYQBiu_小猫咪","name": "🍀小猫咪(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/小猫咪.json"},
 {"key": "csp_XYQBiu_凌云影视","name": "🍀凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
 {"key": "csp_XYQBiu_万能影院","name": "🍀万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
 {"key": "csp_XYQBiu_虎牙直播","name":"🍀虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙直播.json"},
