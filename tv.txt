@@ -796,7 +796,7 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
 套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 
-📺连续👀剧_888,#genre#
+📺连续剧,#genre#
 IPTV淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 TVB剧场,http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
 TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
