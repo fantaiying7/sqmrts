@@ -104,10 +104,6 @@
       "type_id": "舞蹈"
     },
      {
-      "type_name": "考公考证",
-      "type_id": "考公考证"
-    },
-       {
       "type_name": "音乐",
       "type_id": "音乐"
     },
@@ -139,6 +135,11 @@
       "type_name": "白噪音",
       "type_id": "白噪音超清"
     },
+     {
+      "type_name": "考公考证",
+      "type_id": "考公考证"
+    },
+       
     {
       "type_name": "平面设计教学",
       "type_id": "平面设计教学"
