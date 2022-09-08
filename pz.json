@@ -22,6 +22,7 @@
 {"key":"csp_Biliych","name":"🅱歌星演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://神器每日推送.tk/json/Biliych.json"},
 
 {"key":"csp_KanSJ","name":"🗽看视界(神器妹推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_AppTT","name"::🐰tutu(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯‍完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
