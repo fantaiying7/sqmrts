@@ -47,6 +47,33 @@
 {"key":"csp_EEEDY","name":"🌀3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+	{
+"key": "dr_555影视",
+"name": "555影视(道长)",
+"type": 1,
+"api": "https://drpy.aqingyuan.repl.co/vod?rule=555影视",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
+{
+"key": "dr_360影视",
+"name": "360影视(道长)",
+"type": 1,
+"api": "https://drpy.aqingyuan.repl.co/vod?rule=360影视",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
+{
+"key": "dr_cokemv",
+"name": "cokemv(道长)",
+"type": 1,
+"api": "https://drpy.aqingyuan.repl.co/vod?rule=cokemv",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0
+},
 {"key":"csp_Anime1","name": "🌸日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ], 
