@@ -22,7 +22,7 @@
 //{"key":"csp_Wmkk","name":"💯‍完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bd","name":"💥bidi(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"🐷乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_apple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_apple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cok(SP)","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "🎉Lib(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
