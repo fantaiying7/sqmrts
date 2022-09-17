@@ -651,7 +651,7 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 中视,rtmp://59.124.75.138/sat/tv091
 
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 中國電影[1280*720],http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 中視經典[1280*720],http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
@@ -667,7 +667,7 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心台,http://124.238.99.44:808/hls/363/index.m3u8
+唯心,http://124.238.99.44:808/hls/363/index.m3u8
 國家地理野生頻道[1280*720],http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -681,12 +681,12 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8?zgangd
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8?zgangd
-澳视葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8?zgangd
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
-澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
+澳门Macau,http://anren.live/HK/BiIOU11uLA.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
