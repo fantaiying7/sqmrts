@@ -1,5 +1,5 @@
-🔃神器妹收集,#genre#
-频道皆网络收集,http://dlj.bz/jZHHi3
+//🔃神器妹收集,#genre#
+//频道皆网络收集,
 
 ⚛️央视HD,#genre#
 CCTV1,http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP#http://112.25.47.24/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8?p=GITV&area=JS_CMCC_CP#http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8#http://117.169.121.162:6610/PLTV/88888910/224/3221225642/index.m3u8#http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8#http://111.20.33.93/TVOD/88888888/224/3221225783/index.m3u8#http://111.20.33.93/TVOD/88888888/224/3221225660/index.m3u8#http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8#http://111.20.33.70/TVOD/88888893/224/3221226231/index.m3u8#http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8#http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8#http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8#http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8#http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
