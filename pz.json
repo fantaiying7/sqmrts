@@ -5,14 +5,14 @@
 
 {
 
-"spider":"http://神器每日推送.tk/jar.html;md5;89a367a21768e46bc528b6ecf735e1b3",
-"wallpaper":"http://壁纸.神器每日推送.tk",
+"spider":"https://神器每日推送.tk/jar.html;md5;89a367a21768e46bc528b6ecf735e1b3",
+"wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 
 "sites":[
 
-{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/Biliych.json"},
+{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://神器每日推送.tk/json/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://神器每日推送.tk/json/Biliych.json"},
 
 {"key":"csp_KanSJ","name":"🗽看视界(神器妹推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_GitCafe","name":"📜纸条(SP)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
@@ -46,7 +46,7 @@
 	
 {"key": "T4","name": "🐞豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
+{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/json/alist.json"},	
 {"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
@@ -54,24 +54,24 @@
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
 {"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"b16f91f99b7f47478bd0599cdb2fa4b4"},
 
-{"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/分享短视频.json"},
-{"key":"csp_XYQBiu_酷奇","name": "🎤酷奇MV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/XYQxb/酷奇MV.json"},
-{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/虎牙直播.json"},
+{"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/分享短视频.json"},
+{"key":"csp_XYQBiu_酷奇","name": "🎤酷奇MV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/酷奇MV.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙直播.json"},
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
-{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
+{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/17看.json"},
 {"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
 {"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
-{"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/310直播.json"},
 
-{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/幼儿乐园.json"},
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/高中课堂.json"},
+{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/幼儿乐园.json"},
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/json/高中课堂.json"},
 
-{"key":"csp_XYQBiu_凌云影视","name": "🍀凌云","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/凌云影视.json"},
-{"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/万能影院.json"},
-{"key":"csp_XYQBiu_大米星球","name":"🍀大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/大米星球.json"},
+{"key":"csp_XYQBiu_凌云影视","name": "🍀凌云","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
+{"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
+{"key":"csp_XYQBiu_大米星球","name":"🍀大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/大米星球.json"},
 	
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/美剧虫.json"},
