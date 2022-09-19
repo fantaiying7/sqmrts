@@ -46,6 +46,7 @@
 {"key":"dr_人人","name":"🔃人人","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"🔃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
+{ "key": "dr_看视界","name": "🔃看视界(神器妹推荐)","type": 1,"api": "https://drpy.justmiss.repl.co/vod?rule=看视界","searchable": 2,"quickSearch": 0, "filterable": 0},
 	
 {"key": "T4","name": "🐞豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
