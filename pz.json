@@ -45,7 +45,7 @@
 {"key":"dr_鸭奈飞","name":"🔃鸭奈飞","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=鸭奈飞","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_007影视","name":"🔃007","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=007影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_人人","name":"🔃人人","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_MXONE","name":"🔃MXONE","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=MXONE","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_喵喵","name":"🔃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 	
 {"key": "T4","name": "🐞豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
