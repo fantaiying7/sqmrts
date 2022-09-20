@@ -1,6 +1,30 @@
 //🔃神器妹收集,#genre#
 //频道皆网络收集,
 
+
+⚛️广东联通,#genre#
+CCTV-1,http://120.84.96.55:808/hls/1/index.m3u8?blog.ntnas.top
+CCTV-3,http://120.84.96.55:808/hls/3/index.m3u8?blog.ntnas.top
+CCTV-5,http://120.84.96.55:808/hls/5/index.m3u8?blog.ntnas.top
+CCTV-6,http://120.84.96.55:808/hls/6/index.m3u8?blog.ntnas.top
+CCTV-8,http://120.84.96.55:808/hls/8/index.m3u8?blog.ntnas.top
+CCTV-9,http://120.84.96.55:808/hls/9/index.m3u8?blog.ntnas.top
+广东体育HD,http://120.84.96.55:808/hls/22/index.m3u8?blog.ntnas.top
+LOTUS澳门,http://120.84.96.55:808/hls/24/index.m3u8?blog.ntnas.top
+翡翠台576P,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
+明珠台576P,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
+凤凰资讯台,http://120.84.96.55:808/hls/28/index.m3u8?blog.ntnas.top
+凤凰中文台,http://120.84.96.55:808/hls/29/index.m3u8?blog.ntnas.top
+CCTV-5+,http://120.84.96.55:808/hls/30/index.m3u8?blog.ntnas.top
+东森电影台,http://120.84.96.55:808/hls/32/index.m3u8?blog.ntnas.top
+东森洋片HD,http://120.84.96.55:808/hls/33/index.m3u8?blog.ntnas.top
+龙祥时代,http://120.84.96.55:808/hls/35/index.m3u8?blog.ntnas.top
+广东房产,http://120.84.96.55:808/hls/77/index.m3u8?blog.ntnas.top
+星空卫视,http://120.84.96.55:808/hls/79/index.m3u8?blog.ntnas.top
+凤凰香港台,http://120.84.96.55:808/hls/81/index.m3u8?blog.ntnas.top
+CCM,http://120.84.96.55:808/hls/85/index.m3u8?blog.ntnas.top
+财经体育资讯台,http://120.84.96.55:808/hls/86/index.m3u8?blog.ntnas.top
+
 ⚛️央视HD,#genre#
 CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
 CCTV2,http://111.20.33.70/TVOD/88888893/224/3221226224/index.m3u8
