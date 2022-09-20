@@ -49,7 +49,7 @@
 	
 {"key": "T4","name": "🐞豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":" http://神器每日动态.tk/json/alist.json "},	
+{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
 {"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
