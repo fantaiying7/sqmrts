@@ -32,6 +32,7 @@
 {"key":"csp_SP360","name":"📺360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯‍完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
