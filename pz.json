@@ -54,7 +54,7 @@
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
 {"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
-{"key":"Upyunso","name":"😻Up云搜（搜索）","api":"csp_Upyunso","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://神器每日推送.tk/tok.txt",
+{"key":"Upyunso","name":"😻Up云搜（搜索）","api":"csp_Upyunso","type":3,"filterable":1,"quickSearch":1,"searchable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"csp_Alips","name":"🦊喵搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Zhaozy","name":"🐱找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
