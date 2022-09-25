@@ -59,17 +59,6 @@
 {"key":"csp_xBPQ_app","name":"🍀app|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://app.movie/index.php/vod/type/id/{cateId}/page/{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},	
 {"key":"csp_xBPQ_酷客","name":"🍀酷客|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
 
-{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_007","name":"🔃007","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=007影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_胖虎","name":"🔃胖虎","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=胖虎影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝光","name":"🔃蓝光","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_人人","name":"🔃人人","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_喵喵","name":"🔃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_剧白白","name":"🔃剧白白","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_库马伊","name":"🔃库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_皮皮泡","name":"🔃皮皮泡","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=皮皮泡","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
-	
 {"key": "T4","name": "🐞豆瓣荐片|T4桉","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
@@ -96,6 +85,17 @@
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/高中课堂.json"},
 
+{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_007","name":"🔃007","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=007影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_胖虎","name":"🔃胖虎","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=胖虎影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_蓝光","name":"🔃蓝光","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_人人","name":"🔃人人","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_喵喵","name":"🔃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_剧白白","name":"🔃剧白白","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_库马伊","name":"🔃库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_皮皮泡","name":"🔃皮皮泡","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=皮皮泡","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
+	
 {"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_app_独优影视","name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_app_9E03","name": "🐌9E03(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
