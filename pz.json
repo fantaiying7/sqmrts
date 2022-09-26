@@ -61,15 +61,13 @@
 {"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/不卡.json"},	
 {"key":"csp_xBPQ_酷客","name":"🍀酷客","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/酷客.json"},
 
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
-{"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
-
 {"key":"Upyunso","name":"😻Up云┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Yisou","name":"😺易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Alips","name":"🦊喵搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Zhaozy","name":"🐱找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"push_agent","name":"🛴推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 
+{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/分享短视频.json"},
 {"key":"csp_XYQBiu_酷奇","name": "🎤MTV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/XYQxb/酷奇MV.json"},
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/虎牙直播.json"},
