@@ -7,6 +7,6 @@
      "播放数组":"class=\"module-play-list&&</div>",
 	
 	"分类": "国产剧$13#电视剧$dianshiju#动漫$dongman#电影$dianyin#综艺$zongyi#纪录片$jilupian",
-	"分类url": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+	"分类url": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 	
 }
