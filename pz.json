@@ -5,7 +5,7 @@
 
 {
 
-"spider":"http://神器每日推送.tk/jar;md5;ef3513fe56a26c5136ce9d0e1753509e",
+"spider":"http://神器每日推送.tk/jar;md5;3d08549a74c36c155755fef80be6248b",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 
@@ -28,7 +28,7 @@
 {"key":"csp_77","name":"🎬 77|SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	
 {"key":"csp_SP293","name":"2️⃣293|SP","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_DiDuan" ,"name":"⏮️低端|SP","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan" ,"name":"⏮️低端|SP","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Smdyy","name": "🐴神马|SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},	
 {"key":"csp_SP360","name":"📺360|SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥bidi|SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -64,7 +64,7 @@
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
 {"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
-{"key":"Upyunso","name":"😻Up云|搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt","jar":"http://神器每日推送.tk/jar/yunp.jar"},
+{"key":"Upyunso","name":"😻Up云|搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Yisou","name":"😺易搜|搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Alips","name":"🦊喵搜|搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
 {"key":"Zhaozy","name":"🐱找资源|搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/tok.txt"},
