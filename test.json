@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/jar/09266.jar",
+"spider":"http://神器每日推送.tk/jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -8,11 +8,11 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWZ4MTYzL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9iYy50eHQ="]}]}],
 
 "sites":[
-{"key":"csp_GitCafe","name":"📜中秋团圆夜 明月照福缘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key":"csp_GitCafe","name":"📜中秋团圆夜 明月照福缘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://xxooo.ml/SsJnQ6"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://xxooo.ml/SsJnQ6"},
+{"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://xxooo.ml/SsJnQ6"},
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://xxooo.ml/SsJnQ6"},
+{"key":"push_agent","name":"🐱推送(云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xxooo.ml/SsJnQ6"},
 
 {"key":"csp_Alist1","name":"🅿Alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/json/alist.json"},
 {"key":"csp_bendi","name":"🅿本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
