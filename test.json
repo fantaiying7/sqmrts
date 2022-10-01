@@ -35,6 +35,8 @@
 {"key":"csp_77","name":"🎬 77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},	
 
 {"key":"360影视JS","name":"360影视[JS]","type":3,"api":"https://cdn.jsdelivr.net/gh/ShadowDemon1997/CatVodSpiderJS@main/dr.js?rule=dr/360影视.js"},
+{"key":"77-JS","name":"77-JS","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77.js"},
+
 	
 {"key":"Upyunso","name":"😻Up云|搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan" ,"name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
