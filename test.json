@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/html",
+"spider":"http://神器每日推送.tk/xxoo.jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -36,6 +36,18 @@
 
 {"key":"360影视JS","name":"360影视[JS]","type":3,"api":"https://cdn.jsdelivr.net/gh/ShadowDemon1997/CatVodSpiderJS@main/dr.js?rule=dr/360影视.js"},
 {"key":"77-JS","name":"77-JS","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77.js"},
+{"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},,
+    {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},    
+    {"key":"csp_NianYing","name": "NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_2345","name":"2345(SP)","type":3,"api":"csp_2345","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Sokk","name":"Sokk(SP)","type":3,"api":"csp_Sokk","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"Lgyy(SP)","type":3,"api":"csp_Lgyy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys","name":"Kmys(SP)","type":3,"api":"csp_Kmys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Olevod","name":"Olevod(SP)","type":3,"api":"csp_Olevod","playerType":2,"searchable":1,"quickSearch":1},
+{"key":"csp_JustLive","name":"JustLive(SP)","type":3,"api":"csp_JustLive","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bde4","name":"Bde4(SP)","type":3,"api":"csp_Bde4","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Nmys","name":"Nmys111(SP)","type":3,"api":"csp_Nmys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 	
 {"key":"Upyunso","name":"😻Up云|搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
