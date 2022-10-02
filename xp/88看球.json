@@ -2,7 +2,7 @@
     "author":"88看球",
 	"ua": "",
     "homeUrl": "http://www.88kanqiu.cc/",
-    "cateManual": {"NBA":"1","CBA":"2","英超":"8","西甲":"9","意甲":"10","德甲":"14","法甲":"15"},
+    "cateManual": {"NBA":"1","CBA":"2","世界杯":"3","英超":"8","西甲":"9","意甲":"10","德甲":"14","法甲":"15","欧冠":"12","欧联":"13","欧国联":"16","足总杯":"27","国王杯":"33","中超":"7","亚冠":"11","综合":"23","网球":"29","斯诺克":"30"},
 	"homeVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
 	"homeVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
 	"homeVodId": "/div[contains(@class,'pay-btn')]/a/@href",
