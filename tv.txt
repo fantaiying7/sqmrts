@@ -109,6 +109,7 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 CCTV17,http://111.20.33.70/TVOD/88888893/224/3221226198/index.m3u8
 CCTV17,http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
 CCTV17,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+
 ⚛️北京综合,#genre#
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
