@@ -77,7 +77,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/17看.json"},
 {"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./xp/dj看球.json"},
-{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xp/88看球.json"},
+{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xp/88看球.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/310直播.json"},
 
 {"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/幼儿乐园.json"},
