@@ -117,8 +117,6 @@
 
 {"key":"csp_xbb_骚火VIP","name":"🍀骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/shdy.json"},
 {"key":"csp_xbb_速搜影视","name":"🍀速搜影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/速搜影视.json"}, 
-{"key":"csp_xbb_看片网","name":"🍀看片网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/看片网.json"}, 
-{"key":"csp_xbb_旧梦影视","name":"🍀旧梦影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/旧梦影视.json"},
 {"key":"csp_xbb_视中心影院","name":"🍀视中心影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/视中心影院.json"},
 {"key":"csp_xbb_达达龟","name":"🍀达达龟","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/达达龟.json"},
 {"key":"csp_xbb_稀饭影视","name":"🍀稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/稀饭影视.json"},
