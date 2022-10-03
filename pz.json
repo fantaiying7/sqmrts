@@ -81,8 +81,8 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQxb/分享短视频.json"},
-{"key":"csp_xBPQ_88","name": "🏀88看球","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/88看球.json"},
-{"key":"csp_xBPQ_zb8","name": "🏀zb8","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/zb8.json"},
+{"key":"csp_xBPQ_88","name": "🏀88看球","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/88看球.json"},
+{"key":"csp_xBPQ_zb8","name": "🏀zb8","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/zb8.json"},
 	
 	
 	
