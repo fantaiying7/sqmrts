@@ -12,7 +12,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./tv.txt"]}]}],
 
 "sites":[
-{"key":"csp_Bili","name":"🅱哔哩合集┃如提示加载失败请更新TVbox新版本","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/bilibili.json"},
+{"key":"csp_Bili","name":"🅱哔哩合集┃如加载失败请卸载重装新版本TVbox","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},	
 {"key":"douban","name":"🅱豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 1,"quickSearch": 1,"filterable": 1},
