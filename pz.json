@@ -110,7 +110,6 @@
 {"key":"csp_xbb_LIBVIO","name":"🍀LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/LIBVIO.json"},
 {"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/在线之家.json"},
 {"key":"csp_xbb_乌龟影院","name":"🍀乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/乌龟影院.json"},
-{"key":"csp_xbb_北川影视","name":"🍀北川影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/北川影视.json"},
 {"key":"csp_xbb_口袋影院","name":"🍀口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/口袋影院.json"},
 {"key":"csp_xbb_VIP1280","name":"🍀VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/VIP1280.json"},
 {"key":"csp_xbb_COKEMV","name":"🍀COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/COKEMV.json"},
