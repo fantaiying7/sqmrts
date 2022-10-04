@@ -18,8 +18,8 @@
 {"key":"douban","name":"🅱豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_KanSJ","name":"🗽看视界┃神器妹推介","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_qs","name":"🎈轻松┃SP","type":3,"api":"csp_RelaxSP","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
-{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/RelaxSP.jar"},
+{"key":"csp_qs","name":"🎈轻松┃SP","type":3,"api":"csp_RelaxSP","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/RelaxSP.jar"},
+{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nianying","name":"🐮NB┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
