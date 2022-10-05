@@ -7,7 +7,7 @@
 
 {
 
-"spider":"./vod;md5;087914a45cc988d96581defbc3eeb2f4",
+"spider":"./vod;md5;f4ba0b967a9fad08afa06d198e3b796d",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./tv.txt"]}]}],
 
@@ -158,6 +158,10 @@
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="}
 
+],
+"rules": [
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["365yg.com", "/media-video-", "/video/tos/cn/"]}
 ],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
