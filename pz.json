@@ -24,7 +24,7 @@
 //{"key":"csp_Nianying","name":"🐮NB┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"📜纸条┃SP","type":3,"api":"csp_Gitcafe","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"csp_GitCafe","name":"📜纸条┃SP","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sourl.cn/MTtpwt"},
 {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,6 +54,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQxb/分享短视频.json"},
+{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
 	
 {"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/幼儿乐园.json"},
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
@@ -61,11 +62,11 @@
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json"},
 	
-{"key":"Upyunso","name":"😻Up云┃搜索","type":3,"api":"csp_Upyunso","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
-{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yiso","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
-{"key":"Alips","name":"🦊喵搜┃搜索","type":3,"api":"csp_AliPS","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
-{"key":"push_agent","name":"🛴推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"Upyunso","name":"😻Up云┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"Alips","name":"🦊喵搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
+{"key":"push_agent","name":"🛴推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},
 
 {"key":"csp_XYQBiu_凌云影视","name": "🍀凌云","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQxb/凌云影视.json"},
 {"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQxb/万能影院.json"},
@@ -94,7 +95,6 @@
 {"key":"dr_蓝莓","name":"🔃蓝莓","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_AnF","name":"🔃AnF","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🔃库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
 	
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/搜狗影院.json"},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/茶杯狐.json"},
