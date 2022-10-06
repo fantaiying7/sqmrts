@@ -90,11 +90,6 @@
 {"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"},	
 {"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
 {"key":"csp_xBPQ_um","name":"🍀UM看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/umkan.json"},
-
-{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝莓","name":"🔃蓝莓","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_AnF","name":"🔃AnF","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_库马伊","name":"🔃库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
 	
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/搜狗影院.json"},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/茶杯狐.json"},
