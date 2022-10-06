@@ -72,8 +72,9 @@
 {"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQxb/万能影院.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🍀大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQxb/大米星球.json"},	
 
-{"key":"csp_xBPQ_子子","name":"🍀子子","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/子子影视.json"},
 {"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/影视工场.json"},
+{"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"},	
+{"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
 {"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/98影院.json"},
 {"key":"csp_xBPQ_极品","name":"🍀极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/极品.json"},	
 {"key":"csp_xBPQ_cs","name":"️🍀FREE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/freeok.json"},
@@ -87,9 +88,7 @@
 {"key":"csp_xBPQ_番茄","name":"🍀番茄","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/番茄.json"},	
 {"key":"csp_xBPQ_瓜皮TV","name":"🍀瓜皮","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/瓜皮.json"},	
 {"key":"csp_xBPQ_在线","name":"️🍀在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/在线之家.json"},	
-{"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"},	
-{"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
-{"key":"csp_xBPQ_um","name":"🍀UM看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/umkan.json"},
+{"key":"csp_xBPQ_子子","name":"🍀子子","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/子子影视.json"},
 	
 {"key":"csp_xbb_搜狗影院","name":"🍀搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/搜狗影院.json"},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/茶杯狐.json"},
