@@ -7,7 +7,7 @@
 
 {
 
-"spider":"./tvb;md5;3737b908ce2a9c294f8f309c9fccfa93",
+"spider":"./vob;md5;5edfc786fa411bc2c458b9433bd0aead",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./tv.txt"]}]}],
 
