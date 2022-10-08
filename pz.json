@@ -1,14 +1,14 @@
 // 公众号-神器每日推送：每天分享各种实用、高效、有趣的神器，包括国外神器绿色汉化版，以及各种操作技巧干货......
 // 进群吹水加 wx:abdtong1
-// 本接口 http://神器每日推送.tk/pz.json  收集自网络上github上各位大佬的分享，只分享给小白免费体验，佛系更新维护，感谢每位无私奉献和分享的大佬！如有冒犯请联系删除。
-// Github加速站  http://加速.神器每日推送.tk
+// 本接口 https://神器每日推送.tk/pz.json  收集自网络上github上各位大佬的分享，只分享给小白免费体验，佛系更新维护，感谢每位无私奉献和分享的大佬！如有冒犯请联系删除。
+// Github加速站  https://加速.神器每日推送.tk
 // 本接口完美适配TVbox，如遇无法加载请先卸载老旧版本，再更新App新版本。    https://tsq.lanzoui.com/b0c4nr91c?w1  密码：123
 
 
 {
 
 "spider":"./vob;md5;5edfc786fa411bc2c458b9433bd0aead",
-"wallpaper":"http://壁纸.神器每日推送.tk",
+"wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./live.txt"]}]}],
 
 "sites":[
