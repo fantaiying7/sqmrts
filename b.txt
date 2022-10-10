@@ -72,8 +72,8 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-//"dianshizhibo": "http://www.m9527.top/blive.txt",
-"dianshizhibo": "https://xn--m7r412advb92j21st65a.tk/tv.txt",
+"dianshizhibo": "http://www.m9527.top/blive.txt",
+//"dianshizhibo": "https://xn--m7r412advb92j21st65a.tk/tv.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": "player.css#?url=#51.la#poster#.html#file=#cnzz.com#baidu.com#.gif",
 
