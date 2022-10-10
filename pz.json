@@ -129,22 +129,6 @@
 
 //解析设置
 "parses":[
-	{
-   "name": "🌐Ⓤ",
-   "type": 0,
-   "url": "",
-   "header": {
-    "User-Agent": "Mozilla/5.0"
-   }
-  },
-  {
-   "name": "🌀Ⓙ",
-   "type": 1,
-   "url": "",
-   "header": {
-    "User-Agent": "Mozilla/5.0"
-   }
-  },
 {"name":"解析聚合","type":3,"url":"Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
