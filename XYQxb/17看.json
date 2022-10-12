@@ -1,6 +1,3 @@
-//写法思路来自biubiu影院，海阔视界，xpath筛选。
-//项目魔改至github开源仓库https://github.com/Tangsan99999/TvJar中的XBiubiu.java文件，
-
 {
     //规则名
     "title": "无插件直播",
@@ -53,5 +50,4 @@
     //手动嗅探视频链接关键字，每个用#隔开
     "VideoFormat":"",
     //手动嗅探视频链接过滤关键词,每个用#隔开
-    "VideoFilter":".html#=http"
-}
+    "VideoFilter":".html#=http"}
