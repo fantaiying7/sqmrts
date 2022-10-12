@@ -13,7 +13,7 @@
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
-{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api": "https://t.饭太硬.ml/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},	
 
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -53,7 +53,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQxb/分享短视频.json"},
-{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
+{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"https://d.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
 	
 {"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/幼儿乐园.json"},
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
