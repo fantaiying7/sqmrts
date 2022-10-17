@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/jar/xo1017.jar",
+"spider":"http://神器每日推送.tk/jar/custom_spider.jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -45,7 +45,7 @@
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_ZJMiao","name":"🐼追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_wmkk","name":"🐼wmkk┃SP","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Fantuan","name":"🐼Fantuan┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_EEEDY","name":"🌀3E飘花┃SP","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
