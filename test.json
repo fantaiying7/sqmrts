@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/jar/custom_spider.jar",
+"spider":"http://神器每日推送.tk/jar/xo1018.jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -48,7 +48,7 @@
 {"key":"csp_Fantuan","name":"🐼Fantuan┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xf.jar"},
-{"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xf.jar"},
+{"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xf.jar"},	
 
 {"key":"csp_EEEDY","name":"🌀3E飘花┃SP","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
