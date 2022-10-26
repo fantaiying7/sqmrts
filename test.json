@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/jar/xf1026.jar",
+"spider":"http://神器每日推送.tk/jar/1111.jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -53,6 +53,23 @@
 {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_lg","name":"🚀lg┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_EPang","name":"🌀EPang┃SP","type":3,"api":"csp_EPang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Fuli","name":"🌀Fuli┃SP","type":3,"api":"csp_Fuli","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Imaple","name":"🌀Imaple┃SP","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Juhi","name":"🌀Juhi┃SP","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys","name":"🌀Kmys┃SP","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Live1211","name":"🌀Live1211┃SP","type":3,"api":"csp_Live1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nekk","name":"🌀Nekk┃SP","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nfx","name":"🌀Nfx┃SP","type":3,"api":"csp_Nfx","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nfyun","name":"🌀Nfyun┃SP","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdy","name":"🌀Nkdy┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Olevod","name":"🌀Olevod┃SP","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Wmkk","name":"🌀Wmkk┃SP","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xmau","name":"🌀Xmau┃SP","type":3,"api":"csp_Xmau","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysdq","name":"🌀Ysdq┃SP","type":3,"api":"csp_Ysdq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YydsAli1","name":"🌀YydsAli1┃SP","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Enlienli","name":"🌀Enlienli┃SP","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Buka","name":"🌀Buka┃SP","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 
 {
       "key": "Zjdr",
