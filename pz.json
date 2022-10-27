@@ -8,7 +8,7 @@
 
 "spider":"./vod;md5;57ad7f0b01981ebfeebd1258f3dee766",
 "wallpaper":"https://壁纸.神器每日推送.tk",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./live.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly/npZ7lmajmr4/ml6XmjqjpgIEudGsvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/bilibili.json"},
