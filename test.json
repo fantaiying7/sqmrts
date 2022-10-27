@@ -47,7 +47,8 @@
 {"key":"csp_ZJMiao","name":"🐼追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"🐼Fantuan┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XPath3_88看球","name":"⚽88看球","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/88看球.json"},
+{"key":"csp_XPath3_88","name":"⚽88","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/88看球.json"},
+{"key":"csp_XPath3_企鹅直播","name":"⚽企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/企鹅直播.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/310直播.json"},
 {"key":"csp_xBPQ_zf","name": "🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/抓饭体育.json"},
 {"key":"csp_XYQBiu_酷奇","name": "🎤明星MTV","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./XYQxb/酷奇MV.json"},
