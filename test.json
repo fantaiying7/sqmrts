@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/jar/xo1027.jar",
+"spider":"http://神器每日推送.tk/jar/0926缝合.jar",
 
 "wallpaper":"https://fty.rf.gd/php/随机壁纸.php",
 
@@ -55,6 +55,8 @@
 {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_lg","name":"🚀lg┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_101","name":"🌀101┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_EPang","name":"🌀EPang┃SP","type":3,"api":"csp_EPang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fuli","name":"🌀Fuli┃SP","type":3,"api":"csp_Fuli","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Imaple","name":"🌀Imaple┃SP","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
