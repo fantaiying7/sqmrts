@@ -125,9 +125,9 @@
 //{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xp/dm84.json"},
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/dmw.json"},
 {"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/gongreng.json"},
-{"key":"csp_xp_doujiao","name":"💢豆角影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xp/doujiao.json"},
-{"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/mozhatu.json"},
-{"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/yingba.json"}
+{"key":"csp_xp_doujiao","name":"💢豆角影视","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xp/doujiao.json"},
+{"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/mozhatu.json"},
+{"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/yingba.json"}
 
 ],
 
