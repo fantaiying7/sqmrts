@@ -57,9 +57,9 @@
 {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_XYQBiu_17看","name":"🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/17看.json"},
-{"key":"csp_xpath_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./xp/dj看球.json"},
+{"key":"csp_xpath_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./xp/dj看球.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/310直播.json"},
-{"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/88看球.json"},
+{"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/88看球.json"},
 {"key":"csp_XPath_鹅直播","name":"🐧鹅鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xp/企鹅直播.json"},
 {"key":"csp_xBPQ_zf","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/抓饭体育.json"},
 {"key":"csp_XYQBiu_酷奇","name":"🎤明星MTV","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQxb/酷奇MV.json"},
