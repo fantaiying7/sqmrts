@@ -15,7 +15,6 @@
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推荐首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"douban2","name":"🅱豆瓣荐片2┃神器妹推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key" : "drpy_js_豆瓣","name" : "豆瓣[DRPY]","type" : 3,"api" : "https://神器每日推送.tk/dr/libs/drpy.ym.js","ext" : "https://raw.githubusercontent.com/sqspot/tac/main/js/豆瓣.js"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 	
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
