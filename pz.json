@@ -12,7 +12,7 @@
 
 "sites":[
 {"key":"douban2","name":"🅱豆瓣荐片┃神器妹推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"drpy_js_豆瓣","name":"🅱豆瓣荐片┃首页2","type":3,"api":"xn--m7r412advb92j21st65a.ml/dr/影魔.js","ext":"./dr/js/豆瓣.js"},
+{"key":"drpy_js_豆瓣","name":"🅱豆瓣荐片┃首页2","type":3,"api":"http://xn--m7r412advb92j21st65a.ml/dr/影魔.js","ext":"./dr/js/豆瓣.js"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
