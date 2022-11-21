@@ -1,1 +1,0 @@
-http://45.207.11.9:4433/api.php/v1.vod/curnavitemlist?type_id=0
