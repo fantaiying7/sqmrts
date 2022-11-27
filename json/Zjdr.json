@@ -7,7 +7,7 @@
       "or": 999
     },
     "xinluan": {
-      "sh": "备用专享",
+      "sh": "追剧专享二",
       "pu": "https://xl.playmv.vip/?url=",
       "sn": 1,
       "or": 999
@@ -18,8 +18,26 @@
       "sn": 1,
       "or": 999
     },
-    "rx": {
+    "BYGA": {
       "sh": "App专享",
+      "pu": "https://playmv.vip/?url=",
+      "sn": 1,
+      "or": 999
+    },
+    "rx": {
+      "sh": "App专享二",
+      "pu": "https://playmv.vip/?url=",
+      "sn": 1,
+      "or": 999
+    },
+"SLYS4k": {
+      "sh": "测试线路",
+      "pu": "https://playmv.vip/?url=",
+      "sn": 1,
+      "or": 999
+    },
+"ftqp4": {
+      "sh": "蓝光极速",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
@@ -68,13 +86,13 @@
     },
     "youku": {
       "sh": "优酷",
-      "pu": "http://jx.vipmv.co/json.php?token=123457&url=",
+      "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "mgtv": {
       "sh": "芒果",
-      "pu": "http://jx.vipmv.co/json.php?token=123457&url=",
+      "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
@@ -96,39 +114,51 @@
       "sn": 1,
       "or": 999
     },
-    "hnm3u8": {
-      "sh": "备用线路一",
-      "pu": "https://playmv.vip/?url=",
+    "lzm3u8": {
+      "sh": "备用一",
+      "pu": "https://xl.playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "fsm3u8": {
-      "sh": "备用线路二",
+      "sh": "备用二",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "ukm3u8": {
-      "sh": "备用线路三",
+      "sh": "备用三",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
-    "tkm3u8": {
-      "sh": "备用线路四",
+    "tpm3u8": {
+      "sh": "备用四",
+      "pu": "https://playmv.vip/?url=",
+      "sn": 1,
+      "or": 999
+    },
+    "hnm3u8": {
+      "sh": "备用五",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "kbm3u8": {
-      "sh": "备用线路（可换源）",
+      "sh": "备用六",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "dm": {
       "sh": "动漫专线",
-      "pu": "https://svip.rongxingvr.top/api/?key=",
+      "pu": "https://playmv.vip/?url=",
+      "sn": 1,
+      "or": 999
+    },
+    "jinyingm3u8": {
+      "sh": "硬",
+      "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
