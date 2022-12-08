@@ -10,7 +10,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
 "sites":[
-{"key":"js豆瓣","name":"🅱豆瓣热播┃神器妹推荐首页","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"./json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./json/Biliych.json"},
@@ -73,7 +73,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/分享短视频.json"},
-{"key":"dr_兔小贝","name":"📚兔小贝┃儿童启蒙","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},	
+{"key":"dr_兔小贝","name":"📚兔小贝┃儿童启蒙","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},	
 	
 
 {"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/幼儿乐园.json"},
