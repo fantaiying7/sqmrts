@@ -18,21 +18,21 @@
       "sn": 1,
       "or": 999
     },
-    "BYGA": {
+    "BYGA11": {
       "sh": "App专享",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
-    "rx": {
+    "rx11": {
       "sh": "App专享二",
       "pu": "https://playmv.vip/?url=",
       "sn": 1,
       "or": 999
     },
     "SLYS4k": {
-      "sh": "测试线路",
-      "pu": "https://playmv.vip/?url=",
+      "sh": "追剧2",
+      "pu": "https://it.bt5v.com/rx3/?url=",
       "sn": 1,
       "or": 999
     },
@@ -74,37 +74,37 @@
     },
     "qq": {
       "sh": "腾讯",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
     "qiyi": {
       "sh": "爱奇艺",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
     "youku": {
       "sh": "优酷",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
     "mgtv": {
       "sh": "芒果",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
     "sohu": {
       "sh": "搜狐",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
     "bilibili": {
       "sh": "哔哩哔哩",
-      "pu": "https://playmv.vip/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
@@ -132,15 +132,15 @@
       "sn": 1,
       "or": 999
     },
-    "tpm3u8": {
-      "sh": "备用四",
-      "pu": "https://playmv.vip/?url=",
+    "tm3u8": {
+      "sh": "追剧3",
+      "pu": "https://api.bt5v.com/player/?url=",
       "sn": 1,
       "or": 999
     },
-    "hnm3u8": {
-      "sh": "备用五",
-      "pu": "https://playmv.vip/?url=",
+    "alm3u8": {
+      "sh": "追剧1",
+      "pu": "",
       "sn": 1,
       "or": 999
     },
