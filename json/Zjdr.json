@@ -42,12 +42,6 @@
       "sn": 1,
       "or": 999
     },
-    "ftqp4": {
-      "sh": "蓝光极速",
-      "pu": "https://playmv.vip/?url=",
-      "sn": 1,
-      "or": 999
-    },
     "xkys": {
       "sh": "超音速追剧",
       "pu": "https://playmv.vip/?url=",
@@ -80,7 +74,7 @@
     },
     "qiyi": {
       "sh": "爱奇艺",
-      "pu": "https://it.bt5v.com/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
@@ -92,7 +86,7 @@
     },
     "mgtv": {
       "sh": "芒果",
-      "pu": "https://it.bt5v.com/?url=",
+      "pu": "https://it.bt5v.com/rx/?url=",
       "sn": 1,
       "or": 999
     },
