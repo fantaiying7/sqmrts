@@ -80,9 +80,7 @@
 {"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 	
-//{"key":"csp_xBPQ_coke","name":"🍀coke","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/coke.json"},
-//{"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/影视工场.json"},
-//{"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"},	
+	
 {"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
 {"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/98影院.json"},
 {"key":"csp_xBPQ_极品","name":"🍀极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/极品.json"},	
@@ -114,7 +112,6 @@
 
 {"key":"csp_xp_6d","name":"💢六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/6d.json"},
 {"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/348z.json"},
-//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xp/dm84.json"},
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/dmw.json"},
 {"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/gongreng.json"},
 {"key":"csp_xp_doujiao","name":"💢豆角影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xp/doujiao.json"},
@@ -123,13 +120,10 @@
 
 ],
 
-//解析设置
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
-//{"name":"Json并发","type":2,"url":"Parallel"},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
-	
-//{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
+
 {"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"神1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
