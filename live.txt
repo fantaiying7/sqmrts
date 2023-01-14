@@ -162,7 +162,7 @@ CCTV怀旧剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/h
 CCTV第一剧场高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 CCTV兵器科技高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
-🍆COOL直播,#genre#
+🍆Cool综合,#genre#
 湖南卫视,http://iptv.cooltv.top/tv/aishang.php?id=hunwshd
 浙江卫视,http://iptv.cooltv.top/tv/aishang.php?id=zjwshd
 东方卫视,http://iptv.cooltv.top/tv/aishang.php?id=dfwshd
@@ -377,18 +377,6 @@ CCTV卫生健康,http://iptv.cooltv.top/tv/yqdtv.php?id=111
 西安丝路,http://stream2.xiancity.cn/xatv5/playlist.m3u8
 房山电视台,https://live.funhillrm.com/2/playlist.m3u8
 石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
-Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
-Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-Today\'s Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-Coffee House ☕️,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 AsiaFM 亚洲热歌台,http://asiafm.net:8000/asiafmhot
 AsiaFM 亚洲音乐台,http://asiafm.hk:8000/asiafm
 AsiaFM 亚洲经典台,http://goldfm.cn:8000/goldfm
@@ -668,13 +656,6 @@ RTI国语,http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playl
 青春线上,http://iptv.cooltv.top/tv/young.php
 CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
-MY,https://astro1.rastream.com/myfm
-Melody,https://astro3.rastream.com/melody
-8FM,https://mediaprima.rastream.com/mediaprima-onefm
-好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
-YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
-LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 法国国际广播电台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 自由亚洲电台,http://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
