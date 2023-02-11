@@ -1,1 +1,15 @@
-
+[{
+	"name": "小丫alist",
+	"server": "https://pan.d1.mk/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}]
