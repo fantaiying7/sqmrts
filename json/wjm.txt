@@ -19,10 +19,6 @@
             "type_id": "zongyi"
         },
         {
-            "type_name": "体育赛事",
-            "type_id": "tiyu"
-        },
-        {
             "type_name": "听音乐",
             "type_id": "/yy/box"
         }
